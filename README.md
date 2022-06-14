@@ -1,2 +1,3 @@
-# projeto-contador-dio
-Projeto: Criando um contador utilizando HTML, CSS e JS
+# Projeto: Criando um contador utilizando HTML, CSS e JS
+
+Santander Bootcamp Fullstack Developer - Digital Innovation One
